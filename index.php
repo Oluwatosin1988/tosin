@@ -25,10 +25,10 @@
 <button type="button" class="btn btn-primary">home</button>
 
 <!-- Indicates a successful or positive action -->
-<a href="http://localhost:8080/MyProject/GoogleMap.php" role="button" class="btn btn-success btn-large">Google map</a>
+<a href="https://powerful-island-5417.herokuapp.com/MyProject/GoogleMap.php" role="button" class="btn btn-success btn-large">Google map</a>
 
 <!-- Contextual button for informational alert messages -->
-<a href="http://localhost:8080/MyProject/testweather1.php" role="button" class="btn btn-success btn-large">Yahoo Weather</a>
+<a href="https://powerful-island-5417.herokuapp.com/MyProject/testweather1.php" role="button" class="btn btn-success btn-large">Yahoo Weather</a>
 
 
 
@@ -86,7 +86,7 @@
 </style>
 
 <div id="header">
-<h1>CHECK YOUR WEATHER FORECAST AND LOCTIONS</h1>
+<h1>CHECK YOUR WEATHER FORECAST AND LOCATIONS</h1>
 </div>
 
 
